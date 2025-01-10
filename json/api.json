@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "img": "/images/p1.png",
+        "product_name": "Breed Dry Dog Food",
+        "price": 100,
+        "star_img":"/images/Three Star (1).png",
+        "circle":"hidden",
+        "review":35,
+        "category": "Phones"
+    },
+    {
+        "id":2,
+        "img": "/images/p2.png",
+        "product_name": "CANON EOS DSLR Camera",
+        "price": 360,
+        "star_img":"/images/Four Star.png",
+        "circle":"hidden",
+        "review":95,
+        "category": "Camera"
+    },
+    {
+        "id":3,
+        "img": "/images/p3.png",
+        "product_name": "ASUS FHD Gaming Laptop",
+        "price": 700,
+        "star_img":"/images/Five star.png",
+        "circle":"hidden",
+        "review":325,
+        "category": "Gaming"
+    },
+    {
+        "id":4,
+        "img": "/images/p4.png",
+        "product_name": "Curology Product Set",
+        "price": 700,
+        "star_img":"/images/Four Star.png",
+        "circle":"",
+        "review":145,
+        "category": "SmartWatch"
+    },
+    {
+        "id":5,
+        "img": "/images/p5.png",
+        "product_name": "Kids Electric Car",
+        "price": 960,
+        "star_img":"/images/Four Star.png",
+        "circle":"",
+        "review":65,
+        "category": "Gaming"
+    },
+    {
+        "id":6,
+        "img": "/images/p6.png",
+        "product_name": "Jr. Zoom Soccer Cleats",
+        "price": 1160,
+        "star_img":"/images/Five star.png",
+        "circle":"",
+        "review":35,
+        "category": "Gaming"
+    },
+    {
+        "id":7,
+        "img": "/images/p7.png",
+        "product_name": "GP11 Shooter USB Gamepad",
+        "price": 660,
+        "star_img":"/images/Four Half Star.png",
+        "circle":"",
+        "review":55,
+        "category": "Gaming"
+    },
+    {
+        "id":8,
+        "img": "/images/p8.png",
+        "product_name": "Quilted Satin Jacket",
+        "price": 660,
+        "star_img":"/images/Four Half Star.png",
+        "circle":"",
+        "review":55,
+        "category": "HeadPhones"
+    }
+]

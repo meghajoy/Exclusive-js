@@ -1,0 +1,32 @@
+[
+    {
+        "cat_id":1,
+        "cat_img":"/images/Phone.svg",
+        "cat_name": "Phones"
+    },
+    {
+        "cat_id":2,
+        "cat_img":"/images/computer.svg",
+        "cat_name": "Computers"
+    },
+    {
+        "cat_id":3,
+        "cat_img":"/images/smartWatch.svg",
+        "cat_name": "SmartWatch"
+    },
+    {
+        "cat_id":4,
+        "cat_img":"/images/headphone.svg",
+        "cat_name": "HeadPhones"
+    },
+    {
+        "cat_id":5,
+        "cat_img":"/images/gaming_icon.svg",
+        "cat_name": "Gaming"
+    },
+    {
+        "cat_id":6,
+        "cat_img":"/images/camera_icon.svg",
+        "cat_name": "Camera"
+    }
+]
